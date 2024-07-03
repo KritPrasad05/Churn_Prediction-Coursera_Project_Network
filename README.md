@@ -2,7 +2,7 @@
 
 Overview
 
-This repository contains a project aimed at predicting customer churn using various machine learning models. The goal is to identify customers who are likely to cancel their subscription, allowing the business to take proactive measures to retain them. This project includes data preprocessing, model training, hyperparameter tuning, and evaluation.
+This repository contains a project aimed at predicting customer churn using various machine-learning models. The goal is to identify customers who are likely to cancel their subscriptions, allowing the business to take proactive measures to retain them. This project includes data preprocessing, model training, hyperparameter tuning, and evaluation.
 
 Contents
 
@@ -31,23 +31,27 @@ imbalanced-learn
 You can install these libraries by running:
 
 bash
+
 pip install pandas numpy scikit-learn imbalanced-learn
 
 Getting Started
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/CustomerChurnPrediction.git
+
+git clone [https://github.com/yourusername/CustomerChurnPrediction.git](https://github.com/KritPrasad05/Churn_Prediction-Coursera_Project_Network.git)
 cd CustomerChurnPrediction
 
 Install the required libraries:
 
 bash
+
 pip install -r requirements.txt
 
 Run the Jupyter Notebook:
 
 bash
+
 
 jupyter notebook ChurnPrediction.ipynb
 
@@ -76,13 +80,13 @@ Click on the "Fork" button on the top right of this repository page to create a 
 Clone your fork:
 
 bash
-Copy code
-git clone https://github.com/yourusername/CustomerChurnPrediction.git
+
+git clone [https://github.com/yourusername/CustomerChurnPrediction.git](https://github.com/KritPrasad05/Churn_Prediction-Coursera_Project_Network.git)
 cd CustomerChurnPrediction
 Create a branch:
 
 bash
-Copy code
+
 git checkout -b feature-branch
 Make your changes:
 
@@ -91,7 +95,7 @@ Make changes to the code and commit them.
 Push to your fork:
 
 bash
-Copy code
+
 git push origin feature-branch
 Create a pull request:
 
