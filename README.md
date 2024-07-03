@@ -102,6 +102,7 @@ Create a pull request:
 Go to the original repository and create a pull request to merge your changes into the main branch.
 
 We appreciate any contributions, whether it's improving documentation, adding new features, or fixing bugs.
+**FOR THE training DATA PLEASE MESSAGE ME ON LinkedIN:- https://www.linkedin.com/in/krit-prasad-13827b1b1/ or mail me at my mail: kritrp05@gmail.com**
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
